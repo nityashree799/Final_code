@@ -1,0 +1,71 @@
+body {
+    background: #2E2E2E;
+    margin: 0;
+    padding: 0;
+    font-family: 'Roboto', sans-serif;
+}
+
+title {
+    color: #000;
+font-family: Inter;
+font-size: 48px;
+font-style: normal;
+font-weight: 400;
+line-height: normal;
+}
+
+h2 {
+    color: #ffffff;
+font-family: Helvetica;
+font-size: 48px;
+font-style: normal;
+font-weight: 800;
+line-height: 52px;
+text-align: center;
+padding-top: 60px;
+}
+
+p {
+    color: #FFF;
+font-family: Helvetica;
+font-size: 20px;
+font-style: normal;
+font-weight: 500;
+line-height: 40px;
+text-align: center;
+}
+
+.container {
+    position: relative;
+}
+
+#home {
+    position: relative;
+    height: 100vh;
+}
+
+#home img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover; /* Ensure the image covers the entire container */
+}
+
+iframe {
+    width: 80%;
+    height: 60%;
+    margin: auto;
+    padding: 10px;
+    display: block;
+    padding: 10px;
+    position: center;
+    right: 0;
+    border-radius: 20px;
+   --df-messenger-bot-message: #878fac;
+   --df-messenger-button-titlebar-color: #c20000;
+   --df-messenger-chat-background-color: #fafafa;
+   --df-messenger-font-color: white;
+   --df-messenger-send-icon: #878fac;
+   --df-messenger-user-message: #444444;
+  }
+</style>
+}
